@@ -1,0 +1,42 @@
+
+#root {
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #08758f;
+  background-color: #d0f0f5;
+  padding: 20px;
+}
+
+h2 {
+  color: #145da0;
+}
+
+table {
+  margin: auto;
+  width: 80%;
+  border-collapse: collapse;
+  background: white;
+}
+
+th {
+  background-color: #08758f;
+  color: white;
+}
+
+td, th {
+  padding: 12px;
+  border: 1px solid #08758f;
+}
+
+tr:hover {
+  background-color: #d0f0f5;
+}
+
+h3 {
+  color: #08758f;
+  margin-top: 30px;
+}
